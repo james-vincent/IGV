@@ -1,0 +1,7 @@
+---
+name: IGV 
+category: BioGrids Applications
+subcategory: GUIs
+role: batch_connect
+description:
+  This app will launch a BioGrids IGV GUI on the O2 cluster.
